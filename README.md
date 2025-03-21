@@ -1,4 +1,4 @@
 ECL09 - KEVIN DARDENNE
 ------------------------
 
-![Archi](images/archi_terraform.png) ![Site](images/screen_site.png)
+![Archi](image/archi_terraform.png) ![Site](image/screen_site.png)
