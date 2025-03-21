@@ -22,7 +22,7 @@ Cette infrastructure déploie :
 
 ![Archi](image/archi_terraform.png) 
 
-Principaux composants
+Principaux composants :
 
     Virtual Network
         CIDR : 172.18.0.0/16
